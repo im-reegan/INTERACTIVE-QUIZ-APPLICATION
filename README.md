@@ -30,4 +30,4 @@ Furthermore, the quiz application can be easily extended with additional feature
 
 Overall, the Interactive Quiz Application serves as a comprehensive demonstration of frontend development capabilities. It showcases the ability to build interactive, responsive, and user-centered web applications using fundamental web technologies. The project highlights problem-solving skills, logical thinking, and attention to user experience design. It is suitable for academic submissions, internship tasks, portfolio projects, or practical assessments in web development.
 
-                    This task not only reinforces technical knowledge but also promotes the creation of engaging digital experiences that combine functionality with visual appeal, making it a valuable addition to any developer’s project portfolio.
+This task not only reinforces technical knowledge but also promotes the creation of engaging digital experiences that combine functionality with visual appeal, making it a valuable addition to any developer’s project portfolio.
