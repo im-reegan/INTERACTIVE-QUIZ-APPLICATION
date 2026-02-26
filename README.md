@@ -34,8 +34,8 @@ This task not only reinforces technical knowledge but also promotes the creation
 
 # OUTPUT
 
-<img width="897" height="735" alt="Image" src="https://github.com/user-attachments/assets/580aafc2-2c06-4694-b5df-a2e72d79f67f" />
+<img width="1045" height="588" alt="Image" src="https://github.com/user-attachments/assets/9182f044-6df2-4280-b6b5-b33b015c65ff" />
 
-<img width="768" height="725" alt="Image" src="https://github.com/user-attachments/assets/58bdaba7-2998-49fb-894c-ba3be70ad6ad" />
+<img width="1252" height="704" alt="Image" src="https://github.com/user-attachments/assets/67261ddc-e05b-408c-85de-6e3a3e81046a" />
 
-<img width="706" height="405" alt="Image" src="https://github.com/user-attachments/assets/e69d9bd5-4845-4412-9a3c-f5e236eb6167" />
+<img width="837" height="471" alt="Image" src="https://github.com/user-attachments/assets/bc4e159d-a630-423b-9233-90c29f3d04a6" />
