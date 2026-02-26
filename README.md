@@ -38,4 +38,4 @@ This task not only reinforces technical knowledge but also promotes the creation
 
 <img width="1252" height="704" alt="Image" src="https://github.com/user-attachments/assets/67261ddc-e05b-408c-85de-6e3a3e81046a" />
 
-<img width="837" height="471" alt="Image" src="https://github.com/user-attachments/assets/bc4e159d-a630-423b-9233-90c29f3d04a6" />
+<img width="1186" height="667" alt="Image" src="https://github.com/user-attachments/assets/0cef0fc0-0ef0-4a4c-acc6-c241d8784962" />
