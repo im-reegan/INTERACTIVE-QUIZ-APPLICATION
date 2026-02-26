@@ -31,3 +31,11 @@ Furthermore, the quiz application can be easily extended with additional feature
 Overall, the Interactive Quiz Application serves as a comprehensive demonstration of frontend development capabilities. It showcases the ability to build interactive, responsive, and user-centered web applications using fundamental web technologies. The project highlights problem-solving skills, logical thinking, and attention to user experience design. It is suitable for academic submissions, internship tasks, portfolio projects, or practical assessments in web development.
 
 This task not only reinforces technical knowledge but also promotes the creation of engaging digital experiences that combine functionality with visual appeal, making it a valuable addition to any developer’s project portfolio.
+
+# OUTPUT
+
+<img width="897" height="735" alt="Image" src="https://github.com/user-attachments/assets/580aafc2-2c06-4694-b5df-a2e72d79f67f" />
+
+<img width="768" height="725" alt="Image" src="https://github.com/user-attachments/assets/58bdaba7-2998-49fb-894c-ba3be70ad6ad" />
+
+<img width="706" height="405" alt="Image" src="https://github.com/user-attachments/assets/e69d9bd5-4845-4412-9a3c-f5e236eb6167" />
